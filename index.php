@@ -12,7 +12,7 @@
     echo $valor."<br><br>";
 
     $valor = 9;
-    $valor = valor + 1;
+    $valor = $valor + 1;
     echo $valor;
     ?>
 </body>
