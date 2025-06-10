@@ -10,8 +10,8 @@
     Números pares até dez:
     <?php
     $i = 2;
-    whilw ($i <=´10){
-        echo $i.",";
+    while ($i <= 10){
+        echo $i.", ";
         $i = $i + 2;
     }
     ?>
