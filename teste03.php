@@ -18,7 +18,7 @@
                 echo "dois";
                 break;
                 case 3:
-                    echo "três":
+                    echo "três";
                     break;
                     default:
                     echo "não sei!";
